@@ -1,0 +1,124 @@
+{
+  "fictional": true,
+  "currency": "BRL",
+  "researchDate": "2026-10-06",
+  "pricingBasis": "Referências públicas de academias premium; amostra exploratória, sem representatividade nacional.",
+  "terms": {
+    "billing": "Mensal",
+    "commitmentMonths": 12,
+    "enrollmentFee": 0
+  },
+  "plans": [
+    {
+      "id": "essential",
+      "name": "VORA Essential",
+      "monthlyPrice": 399.9,
+      "featured": false,
+      "benefits": [
+        "Musculação e cardio ilimitados",
+        "Acesso à unidade escolhida",
+        "Orientação dos professores no salão",
+        "Avaliação física inicial"
+      ]
+    },
+    {
+      "id": "signature",
+      "name": "VORA Signature",
+      "monthlyPrice": 499.9,
+      "featured": true,
+      "badge": "Melhor custo-benefício",
+      "benefits": [
+        "Todos os benefícios do Essential",
+        "Acesso às seis unidades VORA",
+        "Aulas de dança incluídas",
+        "Revisão mensal do treino",
+        "Avaliação física trimestral",
+        "Dois acessos para convidados por mês"
+      ]
+    },
+    {
+      "id": "reserve",
+      "name": "VORA Reserve",
+      "monthlyPrice": 699.9,
+      "featured": false,
+      "benefits": [
+        "Todos os benefícios do Signature",
+        "Duas sessões de personal trainer por mês",
+        "Uma sessão de fisioterapia por mês, mediante agendamento e avaliação profissional",
+        "Quatro acessos para convidados por mês no total"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "rj-leblon",
+      "name": "VORA Leblon",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "neighborhood": "Leblon",
+      "address": "Avenida Ataulfo de Paiva, 620"
+    },
+    {
+      "id": "rj-barra",
+      "name": "VORA Barra",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "neighborhood": "Barra da Tijuca",
+      "address": "Avenida das Américas, 1850"
+    },
+    {
+      "id": "sp-jardins",
+      "name": "VORA Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "neighborhood": "Jardins",
+      "address": "Alameda Lorena, 980"
+    },
+    {
+      "id": "sp-itaim",
+      "name": "VORA Itaim",
+      "city": "São Paulo",
+      "state": "SP",
+      "neighborhood": "Itaim Bibi",
+      "address": "Rua Tabapuã, 740"
+    },
+    {
+      "id": "es-praia-da-costa",
+      "name": "VORA Praia da Costa",
+      "city": "Vila Velha",
+      "state": "ES",
+      "neighborhood": "Praia da Costa",
+      "address": "Avenida Hugo Musso, 860"
+    },
+    {
+      "id": "ba-barra",
+      "name": "VORA Salvador",
+      "city": "Salvador",
+      "state": "BA",
+      "neighborhood": "Barra",
+      "address": "Avenida Oceânica, 520"
+    }
+  ],
+  "locationNote": "Endereços ilustrativos para unidades fictícias. Não representam academias em funcionamento nesses imóveis.",
+  "sources": [
+    {
+      "name": "Bio Ritmo Belém",
+      "url": "https://www.bioritmo.com.br/unidades/belem",
+      "referencePrice": 420,
+      "note": "Preço encontrado no resultado indexado; os valores não foram exibidos no texto da página aberta."
+    },
+    {
+      "name": "Bio Ritmo Itaim",
+      "url": "https://www.bioritmo.com.br/unidades/itaim",
+      "referencePrice": 580,
+      "multiClubPrice": 700,
+      "note": "Preços encontrados no resultado indexado; os valores não foram exibidos no texto da página aberta."
+    },
+    {
+      "name": "Cia Athletica São José dos Campos",
+      "url": "https://sjc.ciaathletica.com.br/oportunidade/index.html?p=B9B1FB722B37CAE277D89A73F3B2EF6F",
+      "referencePrice": 467,
+      "note": "Oferta anual em até 12 parcelas; página de oferta específica, não tabela geral da rede."
+    }
+  ]
+}
